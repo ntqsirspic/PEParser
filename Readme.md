@@ -1,1 +1,2 @@
-Simple PE parser
+# PEParser
+Project done with a good friend of mine.
